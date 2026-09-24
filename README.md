@@ -23,8 +23,6 @@ Backend, bancos de dados e desenvolvimento de aplicações.
 
 ## 🛠️ Tecnologias e ferramentas
 
-## 🛠️ Tecnologias e ferramentas
-
 ### Front-end
 
 <p>
