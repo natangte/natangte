@@ -22,10 +22,12 @@ Backend, bancos de dados e desenvolvimento de aplicações.
 
 ## 🛠️ Tecnologias e ferramentas
 
+## 🛠️ Tecnologias e ferramentas
+
 ### Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs" />
 </p>
 
 ### Back-end
@@ -39,8 +41,6 @@ Backend, bancos de dados e desenvolvimento de aplicações.
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,git,docker,vscode" />
 </p>
-
----
 
 ## 📊 GitHub
 
