@@ -12,6 +12,7 @@ Backend, bancos de dados e desenvolvimento de aplicações.
 
 ## 🚀 Sobre mim
 
+- 🎂 21 anos
 - 🎓 Cursando Sistemas para Internet
 - 💻 Estudando desenvolvimento Full Stack
 - 🌐 Desenvolvendo aplicações Web
